@@ -5,8 +5,7 @@
 
 I am a STEM graduate who is dedicated to mastering skills and continually broadening my knowledge in technology.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## Goals
 
 My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
