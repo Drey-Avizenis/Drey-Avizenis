@@ -17,6 +17,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | SQL Query Filtering         | <a href="https://docs.google.com/document/d/1rOxXE2KsWb6wnV0izl-eAuirvX9IcGXbyz8IIu_xmS8/edit?usp=sharing">SQL Lab</a>|
+| Managing File Permissions in Linux          | <a href="https://docs.google.com/document/d/1EqnGNo7hMGhq6DO9-36gPhhhPfkk2JiSjUZ4eLN5OAI/edit?usp=sharing">Linux Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
