@@ -16,6 +16,7 @@ My journey in technology has led me to develop a passion for cybersecurity, and 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Automating File Update with Python Algorithm         | <a href="https://docs.google.com/document/d/1kgh4f4S0bAOiLhskZbG34lZw_4DKXHAgj2MN8l0xVXE/edit?usp=sharing">Python Lab</a>|
 | SQL Query Filtering         | <a href="https://docs.google.com/document/d/1rOxXE2KsWb6wnV0izl-eAuirvX9IcGXbyz8IIu_xmS8/edit?usp=sharing">SQL Lab</a>|
 | Managing File Permissions in Linux          | <a href="https://docs.google.com/document/d/1EqnGNo7hMGhq6DO9-36gPhhhPfkk2JiSjUZ4eLN5OAI/edit?usp=sharing">Linux Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
