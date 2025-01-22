@@ -11,8 +11,8 @@ I am a STEM graduate who is dedicated to mastering skills and continually broade
 My journey in technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field.
 
 ## Skills
-[Knowledgeable of NIST frameworks and implementation of security  controls to ensure compliance on regulations. Experience identifying threats, risks, and vulnerabilities; security hardening; incident escalation and response; GDPR and PCI DSS. Developed proficiency in the use of Linux command line, SQL, and Python.
-]]
+Knowledgeable of NIST frameworks and implementation of security  controls to ensure compliance on regulations. Experience identifying threats, risks, and vulnerabilities; security hardening; incident escalation and response; GDPR and PCI DSS. Developed proficiency in the use of Linux command line, SQL, and Python.
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
