@@ -15,38 +15,21 @@ Knowledgeable of NIST frameworks and implementation of security  controls to ens
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Automating File Update with Python Algorithm         | <a href="https://docs.google.com/document/d/1kgh4f4S0bAOiLhskZbG34lZw_4DKXHAgj2MN8l0xVXE/edit?usp=sharing">Python Lab</a>|
 | SQL Query Filtering         | <a href="https://docs.google.com/document/d/1rOxXE2KsWb6wnV0izl-eAuirvX9IcGXbyz8IIu_xmS8/edit?usp=sharing">SQL Lab</a>|
 | Managing File Permissions in Linux          | <a href="https://docs.google.com/document/d/1EqnGNo7hMGhq6DO9-36gPhhhPfkk2JiSjUZ4eLN5OAI/edit?usp=sharing">Linux Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 | Vulnerability Assessment Report | <a href="https://docs.google.com/document/d/1HCcJHqvcz4Iju659m5yy1MiXvS5olB6EIHIJKpEzWFA/edit?usp=sharing">Sim Lab</a>|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
@@ -60,5 +43,4 @@ Knowledgeable of NIST frameworks and implementation of security  controls to ens
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Working on Comptia A+, Net+, & Sec+
